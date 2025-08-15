@@ -1,4 +1,5 @@
-# Setup a Kintone Customization Project with React and Webpack
+# Setup a Kintone Customization Project with React and webpack
+
 *React x Kintone Customization Builder & Uploader*
 
 ## Steps
@@ -89,13 +90,13 @@
 Good luck coding!
 
 ### Got Errors? - Debugging
-  * Verify that you are inputting the exact base URL for Kintone credentials questions
-  * Correct: `https://example.cybozu.com` ✅
-  * Incorrect: `https://example.cybozu.com/` or `example.cybozu.com` ❌
+* Verify that you are inputting the exact base URL for Kintone credentials questions
+* Correct: `https://example.cybozu.com` ✅
+* Incorrect: `https://example.cybozu.com/` or `example.cybozu.com` ❌
 
 ## References
 
-  * [Setup react with webpack and babel | by Prateek Srivastava | Age of Awareness | Medium](https://medium.com/age-of-awareness/setup-react-with-webpack-and-babel-5114a14a47e9)
-  * [webpack を利用する kintone カスタマイズ開発の流れ - @yamaryu0508](https://qiita.com/yamaryu0508/items/1abbef9a50e1e7fc3d2f)
-  * [Introduction to customize-uploader – Kintone Developer Program](https://developer.kintone.io/hc/en-us/articles/360017405154)
-  * [js-sdk/packages/customize-uploader at master · kintone/js-sdk](https://github.com/kintone/js-sdk/tree/master/packages/customize-uploader)
+* [Setup react with webpack and babel | by Prateek Srivastava | Age of Awareness | Medium](https://medium.com/age-of-awareness/setup-react-with-webpack-and-babel-5114a14a47e9)
+* [webpack を利用する kintone カスタマイズ開発の流れ - @yamaryu0508](https://qiita.com/yamaryu0508/items/1abbef9a50e1e7fc3d2f)
+* [Introduction to customize-uploader - Kintone Developer Program](https://developer.kintone.io/hc/en-us/articles/360017405154)
+* [js-sdk/packages/customize-uploader at master · kintone/js-sdk](https://github.com/kintone/js-sdk/tree/master/packages/customize-uploader)
