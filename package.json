@@ -18,7 +18,7 @@
     "@babel/preset-env": "^7.28.3",
     "@babel/preset-react": "^7.27.1",
     "@kintone/customize-uploader": "^8.0.13",
-    "babel-loader": "^8.4.1",
+    "babel-loader": "^10.0.0",
     "core-js": "^3.45.0",
     "css-loader": "^6.11.0",
     "env-cmd": "^10.1.0",
